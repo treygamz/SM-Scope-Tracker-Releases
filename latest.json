@@ -1,9 +1,1 @@
-{
-  "version": "1.1.25",
-  "tagName": "v1.1.25",
-  "installerName": "ScopeTrackerSetup_v1.1.25.exe",
-  "installerDownloadUrl": "https://github.com/treygamz/SM-Scope-Tracker-Releases/releases/download/v1.1.25/ScopeTrackerSetup_v1.1.25.exe",
-  "releasePAgeUrl": "https://github.com/treygamz/SM-Scope-Tracker-Releases/releases/tag/v1.1.25",
-  "publishedUtc": "2026-06-24T14:37:54Z",
-  "isPrivateSource": false
-}
+{"version":"1.1.26","tagName":"v1.1.26","installerName":"ScopeTrackerSetup_v1.1.26.exe","installerDownloadUrl":"https://github.com/treygamz/SM-Scope-Tracker-Releases/releases/download/v1.1.26/ScopeTrackerSetup_v1.1.26.exe","releasePageUrl":"https://github.com/treygamz/SM-Scope-Tracker-Releases/releases/tag/v1.1.26","publishedUtc":"2026-06-24T15:00:00Z","isPrivateSource":false}
